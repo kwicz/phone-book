@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">  <!--We tell the compiler we are using "Microsoft.NET.Sdk", a software development kit which contains the C# language and many libraries of information.-->
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType> <!--We tell the runtime that we would like an executable, or Exe output, meaning a program that can be run.-->
+        <TargetFramework>netcoreapp2.2</TargetFramework><!--We also specify that we will be using the netcoreapp2.2 framework, which contains a lot of our code libraries.-->
+    </PropertyGroup>
+
+</Project>
