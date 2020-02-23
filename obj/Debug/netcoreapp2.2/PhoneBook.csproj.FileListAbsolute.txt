@@ -1,0 +1,11 @@
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.deps.json
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.runtimeconfig.json
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.runtimeconfig.dev.json
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.dll
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.pdb
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.csprojAssemblyReference.cache
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.AssemblyInfoInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.AssemblyInfo.cs
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.dll
+/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.pdb

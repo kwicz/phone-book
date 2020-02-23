@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/katysolovewicz/Projects/epicodus/c#/untitled/PhoneBook.csproj",
+      "projectUniqueName": "/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/PhoneBook.csproj",
       "projectName": "PhoneBook",
-      "projectPath": "/Users/katysolovewicz/Projects/epicodus/c#/untitled/PhoneBook.csproj",
+      "projectPath": "/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/PhoneBook.csproj",
       "packagesPath": "/Users/katysolovewicz/.nuget/packages/",
-      "outputPath": "/Users/katysolovewicz/Projects/epicodus/c#/untitled/obj/",
+      "outputPath": "/Users/katysolovewicz/Projects/epicodus/c#/PhoneBook/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
